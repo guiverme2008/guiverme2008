@@ -5,6 +5,7 @@ Meu nome é **Guilherme Boa Sorte Dos Santos**
 * Sou aluno da Escola Estadual João Jorge Marmorato.
 * Estou estudando um curso com base na linguagem javascript, na biblioteca p5js, fornecido pela plataforma AluraStart.
 * Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula com o professor.
+* Eu tenho um emprego aos finais de semana, trabalho em uma pizzaria às sextas, sábados e domingos.
   
 ### Meu contato :
 
